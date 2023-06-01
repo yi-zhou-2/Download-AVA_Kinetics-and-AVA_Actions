@@ -105,14 +105,3 @@ https://research.google.com/ava/download.html#ava_actions_download
   ```
 
 > https://github.com/gurkirt/kinetics-download-prep
-
-# 视频处理
-
-## MMAction2
-
-待续
-
-## PySlowFast
-
-待续
-
